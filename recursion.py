@@ -7,6 +7,7 @@ def sumN(i,summ,n):
 n=int(input())
 sumN(1,0,n)
 
+
 def summ(n):
     if n==0:
         return 0
